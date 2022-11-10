@@ -1,0 +1,55 @@
+print("Ejercicio 1 boletin 2")
+print("a)")
+sueldo_bruto=1000
+sueldo_neto=400
+print (sueldo_neto>=(sueldo_bruto*0.88)<=sueldo_bruto)
+print(" ")
+
+print("b)")
+dia=5
+print(1<=dia<=31)
+print(" ")
+
+print("c)")
+num1=3
+num2=22
+print((num1%3==0) and (num2%3==0))
+print(" ")
+
+print("d)")
+nota=6
+print(5<=nota<=10)
+print(" ")
+
+print("e)")
+nota1=8
+nota2=4
+nota3=4
+print (5<=((nota1+nota2+nota3)/3)<=10)
+print(" ")
+
+print("Ejercicio 2 boletin 2")
+print("a)")
+nota1=10
+nota2=5
+nota3=5
+print((5<=nota1<=10)and(5<=nota2<=10)and(5<=nota3<=10))
+print(" ")
+
+print("b)")
+saldo=900
+descubierto=2
+print((saldo>=1000)and(descubierto<5))
+print(" ")
+
+print("c)")
+asignaturasAprobadas=4
+asignaturasCurso=10
+print(asignaturasAprobadas>=(asignaturasCurso*0.3))
+print(" ")
+
+print("d)")
+mes=12
+dia=1
+print((12>=mes>0)and(31>=dia>0))
+print(" ")

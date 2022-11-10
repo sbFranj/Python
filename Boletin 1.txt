@@ -1,0 +1,130 @@
+print ("Ejercicio 1")
+print("a)")
+print (7>=27 and not (7<=2))
+print(" ")
+
+print ("b)")
+print (24>5 and 10<=10 or 10==5)
+print(" ")
+
+print("c)")
+print ((10>=15 or 23==13)and not (8==8))
+print(" ")
+
+print("d)")
+print (not (6/3>3) or 7>7)
+print(" ")
+
+print("Ejercicio 2")
+
+print("a")
+print (27%4+15/4)
+print(" ")
+
+print("b)")
+print (37/4**2-2)
+print(" ")
+
+print ("c)")
+print (9*2/3*10*3)
+print(" ")
+
+print("d)")
+print ((7*3-4*4)**2/4*2)
+print(" ")
+
+print ("Ejercicio 3")
+print("a)")
+precio = 400
+print (60 <= precio <= 420)
+print(" ")
+
+print("b)")
+numero = 550
+print (numero %2==1)
+print(" ")
+
+print("c)")
+saldo=100
+dineroSacar=2000
+print(dineroSacar<=saldo and (saldo>=0)and dineroSacar>0)
+print(" ")
+
+print("d)")
+hora=22
+minutos=20
+print(hora>=0 and hora<=23 and minutos>=0 and minutos<=59)
+print(" ")
+
+print("e)")
+estadoCivil="S"
+print (not (estadoCivil=="S" or estadoCivil=="C" or estadoCivil=="V" or estadoCivil=="D"))
+
+pprint ("Ejercicio 4")
+print(" ")
+
+print("a)")
+cantidad = -50
+print(0<=cantidad<=300)
+print(" ")
+
+print("b)")
+edad=5
+print(not(16<=edad<=22))
+print(" ")
+
+print("c)")
+respuesta="S"
+print (not(respuesta=="S" or respuesta=="N"))
+print(" ")
+
+print("d)")
+numero=35
+print(not(numero%7==0 or numero%3==0))
+print(" ")
+
+
+print ("a=true/b=false")
+#a)
+print ((a or b) and not (a))
+
+#b)
+print(not (a or b)and b)
+
+#c)
+print (a or not (b))
+
+#d)
+print(not ((a and b )and (b or a)))
+
+print(" ")
+a=False 
+b=True
+print ("a=false/b=true")
+#a)
+print ((a or b) and not (a))
+
+#b)
+print(not (a or b)and b)
+
+#c)
+print (a or not (b))
+
+#d)
+print(not ((a and b )and (b or a)))
+
+print(" ")
+a=False 
+b=False
+print ("a=false/b=false")
+#a)
+print ((a or b) and not (a))
+
+#b)
+print(not (a or b)and b)
+
+#c)
+print (a or not (b))
+
+#d)
+print(not ((a and b )and (b or a)))
