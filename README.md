@@ -1,6 +1,8 @@
 # Repositorio de Boletines de _Python_       
 
-**Este repositorio va a almacenar las soluciones propuestas por _"sbFranj"_ sobre los Boletines de la asigntaura _Programacion_, tambien como copia de seguridad.** ![imagen](https://cdn-icons-png.flaticon.com/128/721/721808.png)
+**Este repositorio va a almacenar las soluciones propuestas por _"sbFranj"_ sobre los Boletines de la asigntaura _Programacion_, tambien como copia de seguridad.** 
+
+![imagen](https://cdn-icons-png.flaticon.com/128/721/721808.png)
 
 
 
