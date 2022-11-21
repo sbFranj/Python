@@ -22,4 +22,6 @@
  
 - #### [7 _Bucles Avanzado I_](https://github.com/sbFranj/Python/tree/master/Boletin_7)
 
-- #### [8 _Programación Modular I_](https://github.com/sbFranj/Python/tree/master/Boletin_1_modular)
+- #### [8 _Programación Modular I_](https://github.com/sbFranj/Python/tree/master/Boletin_8_Programacion_modular_1)
+
+- #### [9 _Programación Modular II_](https://github.com/sbFranj/Python/tree/master/Boletin_9_Programacion_modular_2)
