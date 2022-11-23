@@ -6,14 +6,11 @@ no se proporciona ningún exponente, el primer número se eleva a 0.
 
 
 
-def powerIt(base, exponent):
+def powerIt(base, exponent=0):
     return base**exponent
 
 
-base=int(input("Enter an base:"))
-exponent=int(input("Enter an exponent:"))
 
-if exponent==None:
-    exponent=0
-else:
-    print(powerIt(base, exponent))
+
+
+print(powerIt(2))
